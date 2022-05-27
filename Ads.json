@@ -2,7 +2,7 @@
     	"Ads":
   [
     {
-      "status":"1",
+      "status":"0",
       "link":"https://www.facebook.com/",
       "interval":2,
       "unityadsId":"1234567",
