@@ -2,11 +2,10 @@
     	"Ads":
   [
     {
-      "status":"0",
+      "status":"1",
       "link":"https://www.google.com/",
       "interval":2,
       "unityadsId":"1234567",
-      "version": 2,
       
       "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
       "admob_banner":"ca-app-pub-3940256099942544/6300978111",
